@@ -2,7 +2,7 @@ console.log('hello');
 alert('wassup bro');
 
 //taping and showing variables
-var b ='shut the fuck up';
+var b ='Welcome';
 console.log(b);
 
 var somenumber =45;
